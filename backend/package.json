@@ -1,0 +1,21 @@
+{
+  "name": "webapp-backend",
+  "version": "1.0.0",
+  "description": "Backend server for the WebApp-Template",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "node",
+    "express",
+    "backend",
+    "api"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
