@@ -32,7 +32,7 @@ To start using this template, clone the repository and follow the setup instruct
 
 ## Contributing
 
-Contributions are welcome! Feel free to fork this repository, make improvements(by going into issues and labeling it as enhancement or putting it in the title), and submit pull requests.
+Contributions are welcome! Feel free to fork this repository, make improvements(via pull request), and submit pull requests.
 
 ## License
 
